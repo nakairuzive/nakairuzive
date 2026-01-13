@@ -15,3 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I'm Nakai, a full-stack developer, based in South Africa 
+🎓 Computer Science student at the University of the Witwatersrand
+🌱 Passionate about learning, building, and solving real-world problems with tech
+
+
