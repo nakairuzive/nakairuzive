@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm Nakai, a full-stack developer based in South Africa.  
+I'm Nakai, an aspiring full-stack developer based in South Africa.  
 
 Final year computer science student at the University of the Witwatersrand 
 
