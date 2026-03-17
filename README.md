@@ -41,6 +41,9 @@ I'm **Nakai**, an aspiring full-stack developer from South Africa building solut
 Create 3 impactful projects that solve real-world challenges
 
 ### Tech Stack
+
+`HTML` `CSS` `Tailwind CSS`
+
 _I am still learning and mastering these tools:_  
 React, JavaScript, Typescript, Python, Django, Node.js, and MongoDB.
 ### How to Reach Me
