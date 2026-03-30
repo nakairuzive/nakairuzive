@@ -26,7 +26,7 @@ I am currently working on a productivity application designed specifically for s
 My goal for 2026 is to create 3 big projects that solve real-world challenges 
 
 What tools I use 
-My main tech stack is React, JavaScript, Typescript, Python, Django, Node.js, and MongoDB. My favourite tools are ... 
+My main tech stack is React, JavaScript, Typescript, Python, Django, Node.js, PostgreSQL and MongoDB. My favourite tools are ... 
 
 How to reach you?
 -->
@@ -45,7 +45,7 @@ Create 3 impactful projects that solve real-world challenges
 `HTML` `CSS` `Tailwind CSS`
 
 _I am still learning and mastering these tools:_  
-React, JavaScript, Typescript, Python, Django, Node.js, and MongoDB.
+`React`, JavaScript, Typescript, Python, Django, Node.js, and MongoDB.
 ### How to Reach Me
 - LinkedIn: www.linkedin.com/in/nakairuzive
 - Portfolio: _...coming soon_
