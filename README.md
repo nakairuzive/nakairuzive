@@ -45,10 +45,10 @@ Create 3 impactful projects that solve real-world challenges
 `HTML` `CSS` `Tailwind CSS`
 
 _I am still learning and mastering these tools:_  
-`React`, JavaScript, Typescript, Python, Django, Node.js, and MongoDB.
+`React`, JavaScript, TypeScript, Python, Django, Node.js, and MongoDB.
 ### How to Reach Me
 - LinkedIn: www.linkedin.com/in/nakairuzive
-- Portfolio: _...coming soon_
+- Portfolio: https://2026-portfolio-site-alpha.vercel.app/
 
 #### Fun facts:
 - I particularly enjoy working on random projects that come to mind. I enjoy the planning process, drawing wireframes, and tracking the hidden challenges associated with those ideas.
