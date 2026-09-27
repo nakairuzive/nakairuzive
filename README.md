@@ -37,8 +37,10 @@ I'm **Nakai**, an aspiring full-stack developer from South Africa building solut
 - **Productivity App**: A student-focused productivity application
 - **Client Project**: Building an application for a real-world client (Software Design course)
 
+<!--
 ### 2026 Goals
 Create 3 impactful projects that solve real-world challenges
+--->
 
 ### Tech Stack
 
